@@ -1,0 +1,5 @@
+# ignore files
+.nvmrc
+
+# ignore directoy
+node_modules/
